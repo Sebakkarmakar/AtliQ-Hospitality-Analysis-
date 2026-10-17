@@ -6,7 +6,7 @@ As part of the Codebasics  Resume Challenge, I have worked on this analysis proj
 [[Paste your dashboard link here]](https://app.powerbi.com/groups/me/reports/33a58ece-93b2-44af-92ed-5515f9874bcc/e3ecbb7b520adf7f8b0f?experience=power-bi)
 
 **Link to Presentation Video:**  
-[Paste your presentation video link here]
+[[Paste your presentation video link here]](https://github.com/Sebakkarmakar/AtliQ-Hospitality-Analysis-/blob/main/AtliQ_Hotel_Data_Comic_v3.pptx)
 
 ---
 
