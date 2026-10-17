@@ -71,8 +71,8 @@ You are a data analyst who has been provided with sample data and a mock-up dash
 ### 5. Information Section
 
 **Dashboard Information**
+<img width="1238" height="735" alt="Screenshot 2026-10-17 210900" src="https://github.com/user-attachments/assets/f5554b70-4c90-4c70-b9e9-d43481167dd5" />
 
-[Insert Info Section Screenshot Here]
 
 ---
 
